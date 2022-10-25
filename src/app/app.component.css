@@ -1,0 +1,11 @@
+.main{
+    margin: 40px;
+}
+
+.form-group{
+    padding: 20px 0;
+}
+
+.form-group label{
+    display: block;
+}
